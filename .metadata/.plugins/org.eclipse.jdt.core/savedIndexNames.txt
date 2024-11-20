@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\MINIT SINGH\Desktop\Tek Pyramid\Gitbash\GitbashWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+2505182934.index
+1865797976.index
+589535169.index
